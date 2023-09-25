@@ -43,9 +43,6 @@ A commit után a változtatásokat a távoli Git repositoryba küldheti push par
 
     git push
 
-Például a következő parancs a helyi repository változtatásait a távoli repositoryba küldi:
-
-    git push
 
 Git és GitHub előnyei
 
